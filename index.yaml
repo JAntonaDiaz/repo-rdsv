@@ -3,9 +3,9 @@ entries:
   accesschart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-03T19:02:46.493662465+01:00"
+    created: "2023-01-26T18:26:14.517213503+01:00"
     description: A Helm chart for Kubernetes
-    digest: 4467a3f38d8149c623e36dedd74037209b7eb42571aef3c79c5f899f604b9fdd
+    digest: 9f5159a0e2c809cf1fb27b298f54fa5280b3bba49fb72d962d35294b1d8e12c1
     name: accesschart
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   cpechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-03T19:02:46.495277002+01:00"
+    created: "2023-01-26T18:26:14.523873315+01:00"
     description: A Helm chart for Kubernetes
-    digest: 0bd35f6f040ea8f6da37823796fbab5631180c8898e40f6ccc53b705f549e868
+    digest: ce0d134d96a786fd58c6fd95630ab3020f8095c5425875621cea0f2dd8ad99c8
     name: cpechart
     type: application
     urls:
     - https://JAntonaDiaz.github.io/repo-rdsv/cpechart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-03T19:02:46.492722653+01:00"
+generated: "2023-01-26T18:26:14.513703064+01:00"
